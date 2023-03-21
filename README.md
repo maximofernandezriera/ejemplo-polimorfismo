@@ -34,7 +34,7 @@ Cuando se llama al método mover() en esa variable, se ejecuta el método sobree
                 }
             }
 
-            public class PolimorfismoEjemplo2 {
+            public class PolimorfismoEjemplo {
                 public static void main(String[] args) {
                     Vehiculo miVehiculo = new Coche();
                     miVehiculo.mover(15); // El coche está avanzando 15 metros
