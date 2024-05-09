@@ -1,4 +1,4 @@
-# Polimorfismo
+# Un poco de polimorfismo
 
 Se trata de comportamientos diferentes, asociados a objetos distintos. Lo interesante es que al llamarlos se utilizará el comportamiento correspondiente al objeto que se esté usando.
 
